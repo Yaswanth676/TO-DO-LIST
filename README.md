@@ -123,7 +123,7 @@ The application uses Tailwind CSS for styling. You can customize the appearance 
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE(license.md) file for details.
 
 ## Acknowledgments
 
