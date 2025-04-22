@@ -2,14 +2,8 @@
 
 A beautiful and functional task management application built with React, TypeScript, and Tailwind CSS.
 
-![Login Page](https://via.placeholder.com/800x400?text=Project+Bolt+Login+Page)
 
-## Internship Assignment
 
-### General Instructions:
-- You may use web search or ChatGPT, but don't copy the code from ChatGPT
-- Please add comments to the code, document it well
-- Date of Submission: April 22, 2025
 
 ### Frontend Development
 **Project Task**: Create a Todo List interface using React.
